@@ -21,7 +21,7 @@ https://zpl.io/scene/VDdGEYr
 - Feito por Camila Mizutani
 
 ## Link do Surge
-<a href="https://labe-food2.surge.sh/">https://labe-food2.surge.sh/</a>
+<a href="https://whispering-connection.surge.sh/">https://whispering-connection.surge.sh/</a>
 - <b>Login:</b> labefoodteste@gmail.com
 - <b>Senha:</b> 123456
 
