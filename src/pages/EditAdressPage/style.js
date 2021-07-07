@@ -22,10 +22,18 @@ export const Main = styled.div`
       align-items:center;
       margin-top: 1rem;
       input{
-          width:20.5rem;
+          width:30.5rem;
+
+          @media(max-width: 600px){
+            width: 20.5rem;
+        }
       }
       button{
-          width:22.3rem;
+          width:32.3rem;
+
+          @media(max-width: 600px){
+            width: 22.3rem;
+        }
       }
   }
 `

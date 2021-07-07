@@ -3,8 +3,12 @@ import styled from 'styled-components';
 export const Container = styled.div`
 position: absolute; 
 top: 0;
-right:0; 
+right: -160px; 
 z-index: 2;
+
+@media(max-width: 600px){
+  right: 0;
+}
 `
 
 export const Select = styled.select`
