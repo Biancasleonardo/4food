@@ -7,10 +7,14 @@ export const StickFooter = styled.div`
     display: flex;
     justify-content: space-around;
     bottom: 0;
-    width: 100%;
+    width: 600px;
     border-top: 1px solid #b8b8b8;
     background-color: #FFFFFF;
     z-index: 100;
+
+    @media(max-width: 600px){
+      width: 100%;
+    }
 `
 
 export const StyledIconButton = styled(IconButton)`
