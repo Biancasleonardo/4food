@@ -68,10 +68,6 @@ Funcionalidades adicionais:
 - Página perfil
   - Adição (do layout proposto) de um botão de logout 
 
-
-## O que não funciona 
-- Nenhum recurso não funcional conhecido
-
 ## Imagens
 ![download (7)](https://user-images.githubusercontent.com/48807462/124328289-b7fb2e00-db5f-11eb-90a0-520f19632bea.jpg)
 ![download](https://user-images.githubusercontent.com/48807462/124328199-91d58e00-db5f-11eb-89ab-c29e409e1b71.jpg)
